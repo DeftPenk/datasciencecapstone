@@ -2,7 +2,7 @@
 
 <a href="https://rpubs.com/DeftPenk/665985" target="_blank">Presentation</a>
 
-<a href="https://deftpenk.shinyapps.io/wordApp/" target="_blank">Next Word Predictor App</a>
+<a href="https://deftpenk.shinyapps.io/wordApp/" target="_blank">Word Predictor App</a>
 
 ## Instructions
 
